@@ -1,2 +1,2 @@
-# Club-member-system-with-python-and-mysql
+# Database Management System for club member
 In this Problem, you have to write an application in Python 3.7 that keeps track of club members and their details. A newly opened club house is inviting guests to register into their membership program. They have received a lot of entries and need help retrieving details of their applicants quickly. In order to do this, they need your help in designing a system that can quickly save and find the applicant details based on the applicant’s name.
