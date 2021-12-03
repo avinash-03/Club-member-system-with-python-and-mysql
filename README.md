@@ -12,7 +12,7 @@ Features
 • Provide an admin interface to view the join date from the members who have taken admission.<br>
 • I have also created 3 Triggers and a Stored Procedure in the project for better understandin of the Data base concepts. <br>
 
-![](Screenshot (52).png)
-![](Screenshot (53).png)
 
-![Screenshot](Screenshot (52).png)
+
+![Screenshot](https://github.com/avinash-03/Club-member-system-with-python-and-mysql/blob/main/Screenshot%20(52).png)
+![screen](https://github.com/avinash-03/Club-member-system-with-python-and-mysql/blob/main/Screenshot%20(53).png)
